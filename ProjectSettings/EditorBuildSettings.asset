@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/SceneOne.unity
     guid: 58c104df62cea8c43aa315696eb462f7
   - enabled: 0
     path: "Assets/Samples/Meta XR Interaction \u200BSDK/71.0.0/Example Scenes/PokeExamples.unity"
